@@ -1,0 +1,38 @@
+{
+    "SpeciesName": [
+        "Agaricus bisporus",
+        "Agaricus bitorquis",
+        "Agaricus subrufescens",
+        "Agaricus blazei",
+        "Agaricus bisporus",
+        "Agaricus bisporus",
+        "Agaricus sinodeliciosus",
+        "Agaricus bisporus",
+        "Agaricus bisporus",
+        "Agaricus bisporus"
+    ],
+    "AssemblyName": [
+        "ASM3795373v1",
+        "ASM3024668v1",
+        "Asub-V01",
+        "ASM2971944v1",
+        "gfAgaBisp1.1",
+        "gfAgaBisp1.1 alternate haplotype",
+        "ASM2231518v1",
+        "ASM1487270v1",
+        "ASM827154v1",
+        "MU_Agar_1"
+    ],
+    "AssemblyAccession": [
+        "GCA_037953735.1",
+        "GCA_030246685.1",
+        "GCA_029945375.1",
+        "GCA_029719445.1",
+        "GCA_943193715.1",
+        "GCA_943193725.1",
+        "GCA_022315185.1",
+        "GCA_014872705.1",
+        "GCA_008271545.1",
+        "GCA_006491665.1"
+    ]
+}

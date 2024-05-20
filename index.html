@@ -4,18 +4,18 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-	<script type="module" src="script.js" defer></script>
+	<title>Autocomplete Example</title>
+	<link href="css/style.css" rel="stylesheet">
+	<script src="fungoscript.js" defer></script>
 </head>
 
 <body>
-
-	<form action="" method="post" class="example">
-		<div class="example">
-			<label for="fungus">Enter fungus:</label>
-			<input type="text" name="fungus" id="fungus" required>
-		</div>
-
+	<form action="" class="search-form">
+		<input type="text" class="search-input" placeholder="Search">
+		<ul class="suggestions">
+			<li>Filter for species</li>
+			<li>or assembly name</li>
+		</ul>
 	</form>
 </body>
 
